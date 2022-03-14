@@ -465,7 +465,7 @@
 			},
 			"SynapseWorkspaceName": {
 				"type": "string",
-				"defaultValue": "picki2fhd5b3n7ewpocws1"
+				"defaultValue": "picki2fhd5b3n7ewpocws1.database.windows.net"
 			},
 			"SQLDedicatedPoolName": {
 				"type": "string",
